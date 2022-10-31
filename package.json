@@ -1,0 +1,27 @@
+{
+  "name": "Scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidModzz/Scraper.git"
+  },
+  "keywords": [],
+  "author": "DavidModzz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavidModzz/Scraper/issues"
+  },
+  "homepage": "https://github.com/DavidModzz/Scraper",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "axios": "^1.1.3",
+    "cheerio": "^1.0.0-rc.12",
+    "google-it": "^1.6.3",
+    "node-fetch": "^2.6.7"
+  }
+}
